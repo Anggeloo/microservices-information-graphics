@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\microservices-information-graphics.props" />
-</Project>
